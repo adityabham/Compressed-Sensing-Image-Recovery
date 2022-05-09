@@ -1,1 +1,1 @@
-# Compressed-Sensing-Image-Recovery
+# Compressed Sensing Image Recovery
